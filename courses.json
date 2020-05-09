@@ -1,0 +1,13 @@
+{
+ "courses": [
+    {"code":"INST630","name":"Introduction to Programming","date":"12-12-2019","time":"2.00 p.m.- 4.00 p.m."},
+    {"code":"INST704","name":"Inclusive Design","date":"11-23-2019","time":"12.00 p.m.- 2.00 p.m."},
+    {"code":"CMSC838X","name":"Personal Health Informatics","date":"12-02-2019","time":"10.00 a.m.- 11.00 a.m."},
+    {"code":"PHSC401","name":"History of Public Health","date":"11-29-2019","time":"2.45 p.m.- 5.00 p.m."},
+    {"code":"SOCY201","name":"Introductory Statistics for Sociology","date":"12-12-2019","time":"2.00 p.m.- 4.00 p.m."},
+    {"code":"STAT600","name":"Probability Theory I","date":"12-11-2019","time":"2.00 p.m.- 4.00 p.m."},
+    {"code":"PSYC334","name":"Psychology of Interpersonal Relationships","date":"12-13-2019","time":"9.00 a.m.- 11.00 a.m."},
+    {"code":"SOCY630","name":"Population and Society","date":"11-26-2019","time":"12.10 p.m.- 2.30 p.m."},
+    {"code":"STAT705","name":"Computational Statistics","date":"12-09-2019","time":"11.00 a.m.- 12.00 p.m."}
+]
+}
