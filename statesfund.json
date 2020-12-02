@@ -1,0 +1,254 @@
+{
+    "states": [
+        {
+            "abbr": "AL",
+            "name": "Alabama",
+            "fund": "$0"
+        },
+        {
+            "abbr": "AK",
+            "name": "Alaska",
+            "fund": "$7,506,757"
+        },
+        {
+            "abbr": "AZ",
+            "name": "Arizona",
+            "fund": "$10,921,224"
+        },
+        {
+            "abbr": "AR",
+            "name": "Arkansas",
+            "fund": "$18,129,183"
+        },
+        {
+            "abbr": "CA",
+            "name": "California",
+            "fund": "$9,255,445"
+        },
+        {
+            "abbr": "CO",
+            "name": "Colorado",
+            "fund": "$21,653,636"
+        },
+        {
+            "abbr": "CT",
+            "name": "Connecticut",
+            "fund": "$4,438,130"
+        },
+        {
+            "abbr": "DE",
+            "name": "Delaware",
+            "fund": "$4,616,250"
+        },
+        {
+            "abbr": "FL",
+            "name": "Florida",
+            "fund": "$14,002,890"
+        },
+        {
+            "abbr": "GA",
+            "name": "Georgia",
+            "fund": "$8,942,640"
+        },
+        {
+            "abbr": "HI",
+            "name": "Hawaii",
+            "fund": "$13,505,756"
+        },
+        {
+            "abbr": "ID",
+            "name": "Idaho",
+            "fund": "$9,018,152"
+        },
+        {
+            "abbr": "IL",
+            "name": "Illinois",
+            "fund": "$27,869,775"
+        },
+        {
+            "abbr": "IN",
+            "name": "Indiana",
+            "fund": "$9,153,420"
+        },
+        {
+            "abbr": "IA",
+            "name": "Iowa",
+            "fund": "$12,524,740"
+        },
+        {
+            "abbr": "KS",
+            "name": "Kansas",
+            "fund": "$16,807,030"
+        },
+        {
+            "abbr": "KY",
+            "name": "Kentucky",
+            "fund": "$18,957,317"
+        },
+        {
+            "abbr": "LA",
+            "name": "Louisiana",
+            "fund": "$4,056,510"
+        },
+        {
+            "abbr": "ME",
+            "name": "Maine",
+            "fund": "$10,542,231"
+        },
+        {
+            "abbr": "MD",
+            "name": "Maryland",
+            "fund": "$22,634,738"
+        },
+        {
+            "abbr": "MA",
+            "name": "Massachusetts",
+            "fund": "25,965,955"
+        },
+        {
+            "abbr": "MI",
+            "name": "Michigan",
+            "fund": "$19,142,192"
+        },
+        {
+            "abbr": "MN",
+            "name": "Minnesota",
+            "fund": "$22,676,250"
+        },
+        {
+            "abbr": "MS",
+            "name": "Mississippi",
+            "fund": "$17,545,234"
+        },
+        {
+            "abbr": "MO",
+            "name": "Missouri",
+            "fund": "$8,967,686"
+        },
+        {
+            "abbr": "MT",
+            "name": "Montana",
+            "fund": "$13,259,481"
+        },
+        {
+            "abbr": "NE",
+            "name": "Nebraska",
+            "fund": "$7,829,869"
+        },
+        {
+            "abbr": "NV",
+            "name": "Nevada",
+            "fund": "$9,999,965"
+        },
+        {
+            "abbr": "NH",
+            "name": "New Hampshire",
+            "fund": "$8,165,663"
+        },
+        {
+            "abbr": "NJ",
+            "name": "New Jersey",
+            "fund": "$3,989,175"
+        },
+        {
+            "abbr": "NM",
+            "name": "New Mexico",
+            "fund": "$0"
+        },
+        {
+            "abbr": "NY",
+            "name": "New York",
+            "fund": "$27,515,288"
+        },
+        {
+            "abbr": "NC",
+            "name": "North Carolina",
+            "fund": "$9,639,543"
+        },
+        {
+            "abbr": "ND",
+            "name": "North Dakota",
+            "fund": "$17,142,678"
+        },
+        {
+            "abbr": "OH",
+            "name": "Ohio",
+            "fund": "$13,750,983"
+        },
+        {
+            "abbr": "OK",
+            "name": "Oklahoma",
+            "fund": "$4,997,082"
+        },
+        {
+            "abbr": "OR",
+            "name": "Oregon",
+            "fund": "$18,878,589"
+        },
+        {
+            "abbr": "PA",
+            "name": "Pennsylvania",
+            "fund": "$31,395,823"
+        },
+        {
+            "abbr": "RI",
+            "name": "Rhode Island",
+            "fund": "$8,667,933"
+        },
+        {
+            "abbr": "SC",
+            "name": "South Carolina",
+            "fund": "$20,685,864"
+        },
+        {
+            "abbr": "SD",
+            "name": "South Dakota",
+            "fund": "$3,033,792"
+        },
+        {
+            "abbr": "TN",
+            "name": "Tennessee",
+            "fund": "10,143,372"
+        },
+        {
+            "abbr": "TX",
+            "name": "Texas",
+            "fund": "33,047,385"
+        },
+        {
+            "abbr": "UT",
+            "name": "Utah",
+            "fund": "$20,677,282"
+        },
+        {
+            "abbr": "VT",
+            "name": "Vermont",
+            "fund": "$4,947,261"
+        },
+        {
+            "abbr": "VA",
+            "name": "Virginia",
+            "fund": "$23,591,958"
+        },
+        {
+            "abbr": "WA",
+            "name": "Washington",
+            "fund": "$30,276,210"
+        },
+        {
+            "abbr": "WV",
+            "name": "West Virginia",
+            "fund": "$4,798,697"
+        },
+        {
+            "abbr": "WI",
+            "name": "Wisconsin",
+            "fund": "$27,685,176"
+        },
+        {
+            "abbr": "WY",
+            "name": "Wyoming",
+            "fund": "$0"
+        }
+    ]
+}
